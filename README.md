@@ -1,63 +1,75 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0047ff&height=220&section=header&text=LUKA-AI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20To%20My%20GitHub%20Profile&descAlignY=58&descSize=18&descColor=d0f0ff" alt="header"/>
+</p>
 
-# ⚡ LUKA-AI ⚡
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+To+My+GitHub+Profile;Full-Stack+Developer;WhatsApp+Bot+Creator;JavaScript+Enthusiast;Powered+By+LUKA-AI" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=180&section=header&text=LUKA-AI&fontSize=55&fontColor=00ffff&animation=fadeIn&fontAlignY=38"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/LUKA-AI">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hello+Visitor+👋;My+Name+is+Lukas+Simkonda;Founder+of+LUKA-AI;Full-Stack+Developer;WhatsApp+Bot+Creator;Welcome+To+My+Profile" alt="Typing SVG"/>
+  </a>
+</p>
 
 ---
 
-# 👨‍💻 WHO AM I?
+### 📊 MY STATS
 
-```js
-const luka = {
-  realName: "Lukas Simkonda",
-  username: "LUKA-AI",
-  country: "Tanzania 🇹🇿",
-  role: "Full-Stack Developer",
-  specialty: "WhatsApp Bots",
-  languages: ["JavaScript", "HTML", "CSS", "Node.js"],
-  hobbies: ["Coding", "Gaming", "Technology"]
-}
+<p align="center">
+  <a href="https://github.com/LUKA-AI">
+    <img title="Followers" src="https://img.shields.io/github/followers/LUKA-AI?color=blue&style=flat-square">
+  </a>
+
+  <a href="https://github.com/LUKA-AI">
+    <img title="Profile Views" src="https://komarev.com/ghpvc/?username=LUKA-AI&color=00f5ff&style=flat-square&label=Profile+Views">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LUKA-AI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUKA-AI&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=LUKA-AI&theme=tokyonight&hide_border=true" alt="Streak Stats">
+</p>
 
 ---
 
-🚀 TECH STACK
+### 🏆 GITHUB TROPHIES
 
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,express,mongodb,firebase,git,github,vscode,linux"/></p>---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LUKA-AI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies">
+</p>
 
-📊 GITHUB STATS
+---
 
-<p align="center"><img width="47%" src="https://github-readme-stats.vercel.app/api?username=LUKA-AI&show_icons=true&theme=github_dark&hide_border=true"/><img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=LUKA-AI&theme=github-dark-blue&hide_border=true"/></p>---
+### 🌍 CONTRIBUTION ACTIVITY
 
-🏆 TROPHIES
+<p align="center">
+  <a href="https://github.com/LUKA-AI">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LUKA-AI&bg_color=0d1117&color=00f5ff&line=0047ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
+  </a>
+</p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=LUKA-AI&theme=onestar&no-frame=true&row=1&column=6"/></p>---
+---
 
-📈 CONTRIBUTION GRAPH
+### 🔗 LET'S CONNECT
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=LUKA-AI&theme=react-dark&hide_border=true&area=true"/></p>---
+[![Website](https://img.shields.io/badge/Website-00f5ff?style=flat-square&logo=google-chrome&logoColor=black)](https://yourwebsite.com)
 
-🌍 CONNECT WITH ME
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com)
 
-<p align="center"><a href="https://github.com/LUKA-AI">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://wa.me/255000000000">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a><a href="https://t.me/LUKA_AI">
-<img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a><a href="https://youtube.com">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a></p>---
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
 
-🐍 SNAKE ANIMATION
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/LUKA_AI)
 
-<p align="center"><img src="https://raw.githubusercontent.com/LUKA-AI/LUKA-AI/output/github-contribution-grid-snake.svg"/></p>---
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/255000000000)
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=120&section=footer&text=THANKS+FOR+VISITING+🔥&fontSize=22&fontColor=00ffff"/></div>
-```
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LUKA-AI)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047ff,100:00f5ff&height=120&section=footer&text=Thanks%20For%20Visiting%20🔥&fontSize=18&fontColor=ffffff&fontAlignY=65" alt="footer"/>
+</p>
