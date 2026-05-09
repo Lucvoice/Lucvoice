@@ -1,60 +1,68 @@
-<p align="center">  
-  <img src="https://vercel.app" alt="header"/>  
-</p>  
+<p align="center">
+  <img src="https://vercel.app" />
+</p>
 
-<p align="center">  
-  <a href="https://github.com">  
-    <img src="https://demolab.com" alt="Typing SVG" />  
-  </a>  
-</p>  
-
----
-
-📊 MY STATS
-
-<p align="center">  
-  <a href="https://github.com">  
-    <img title="Followers" src="https://shields.io">  
-  </a>     
-  <a href="https://github.com">  
-    <img title="Profile Views" src="https://komarev.com">  
-  </a>  
-</p>  
-
-<p align="center">  
-  <img src="https://vercel.app" alt="GitHub Stats">  
-</p>  
-
-<p align="center">  
-  <img src="https://vercel.app" alt="Top Languages">  
-</p>  
-
-<p align="center">  
-  <img width="420" src="https://vercel.app" alt="Streak Stats">  
-</p>  
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://herokuapp.com" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-🏆 GITHUB TROPHIES
+### 💫 About Me
+I am a passionate **Full-Stack Developer** dedicated to building scalable, user-centric web applications. I love turning complex problems into simple, elegant code.
 
-<p align="center">  
-  <img src="https://vercel.app" alt="GitHub Trophies">  
-</p>  
-
----
-
-🌍 CONTRIBUTION ACTIVITY
-
-<p align="center">  
-  <a href="https://github.com">  
-    <img src="https://vercel.app" alt="Activity Graph">  
-  </a>  
-</p>  
+- 🔭 **Current Focus:** Developing high-performance web solutions.
+- 🚀 **Goals:** To contribute to impactful open-source projects.
+- ⚡ **Fun Fact:** I believe the best code is the code that is easy to read.
+- 📫 **How to reach me:** [your-email@example.com]
 
 ---
 
-🔗 LET'S CONNECT
+### 🛠️ My Toolbox
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
 
-<p align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff4c6,100:6e5cff&height=120&section=footer&text=Nice%20to%20Meet%20You%20👋&fontSize=14&fontColor=d0ccff&fontAlignY=65" alt="footer"/>  
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://vercel.app" alt="Lucvoice Stats" height="180px" />
+      </td>
+      <td>
+        <img src="https://vercel.app" alt="Top Languages" height="180px" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
+</div>
+
+---
+
+### 📈 Activity Overview
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="lucvoice" height="30" width="40" /></a>
+<a href="https://twitter.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="lucvoice" height="30" width="40" /></a>
+<a href="https://instagram.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="lucvoice" height="30" width="40" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://vercel.app" />
 </p>
