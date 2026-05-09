@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="https://t.me/yourusername">
+  <a href="https://t.me/lucvoice">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 
