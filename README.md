@@ -1,68 +1,80 @@
+<h1 align="center">Hi 👋, I'm LUKA-AI</h1>
+
 <p align="center">
-  <img src="https://vercel.app" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0047ff&height=220&section=header&text=LUKA-AI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Bot%20Creator%20•%20UI%20Designer&descAlignY=55"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com">
-    <img src="https://herokuapp.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Welcome+To+My+GitHub+Profile;WhatsApp+Bot+Developer;Full+Stack+Web+Developer;Always+Learning+New+Things"/>
+</p>
+
+---
+
+# 💫 About Me
+
+- 🔭 Currently Working On **WhatsApp Bots**
+- 🌱 Learning **Advanced Web Development**
+- 👨‍💻 All My Projects Are Available On GitHub
+- ⚡ Fun Fact: **I Love Coding Day & Night**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://t.me/yourusername">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/255000000000">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 💫 About Me
-I am a passionate **Full-Stack Developer** dedicated to building scalable, user-centric web applications. I love turning complex problems into simple, elegant code.
-
-- 🔭 **Current Focus:** Developing high-performance web solutions.
-- 🚀 **Goals:** To contribute to impactful open-source projects.
-- ⚡ **Fun Fact:** I believe the best code is the code that is easy to read.
-- 📫 **How to reach me:** [your-email@example.com]
-
----
-
-### 🛠️ My Toolbox
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://vercel.app" alt="Lucvoice Stats" height="180px" />
-      </td>
-      <td>
-        <img src="https://vercel.app" alt="Top Languages" height="180px" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
-</div>
-
----
-
-### 📈 Activity Overview
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="lucvoice" height="30" width="40" /></a>
-<a href="https://twitter.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="lucvoice" height="30" width="40" /></a>
-<a href="https://instagram.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="lucvoice" height="30" width="40" /></a>
-</p>
-
-<br />
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://vercel.app" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,express,mongodb,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# ✨ Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0047ff&height=120&section=footer"/>
 </p>
